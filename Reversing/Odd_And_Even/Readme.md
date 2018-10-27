@@ -28,9 +28,9 @@ You must learn to deal with odd and even in life, as well as in figures..
 
 **Part1:**
 
-We have to change the file name of the main binary to "OddEven.exe", then part2 of the challene will be downloaded.
+We have to change the file name of the main binary to "OddEven.exe", then part2 of the challenge will be downloaded.
 
 
 **Part2:**
 
-Two inputs are given one through command line argument which should be the even characters of the flag and through stdin which should be odd characters of the flag. If both the input are correct then we get the flag..
+Two inputs are given one through command line argument and other through stdin. If both the input are correct then we get the flag..
