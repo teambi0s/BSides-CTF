@@ -1,6 +1,6 @@
 # FuzzY
 
-**Challenge File archive**: [final_fuzz.pcap](final_fuzz.pcap)
+**Challenge File archive**: [final_fuzz.pcap](Handout/final_fuzz.pcap)
   
 **Author**: [cr4ck3t](https://twitter.com/nambiar_kartuzz)
   
